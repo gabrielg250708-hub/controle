@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Fluxo de Pátio e Docas",
+  "description": "Sistema de gestão logística para controle em tempo real de até 32 caminhões, 14 docas de carga/descarga e 8 vagas no pátio com histórico e métricas operacionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
